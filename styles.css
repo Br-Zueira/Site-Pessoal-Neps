@@ -14,8 +14,25 @@ main {
 
 h1 {
     color: white;
+    font-size: 30px;
 }
 
 h2 {
-    color: lime
+    color: lime;
+    font-size: 25px;
+}
+
+#titulo-principal {
+    font-family: monospace;
+    font-size: 35px;
+}
+
+.hiperfoco {
+    color: rgb(0, 255, 255);
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    object-fit: scale-down;
 }
